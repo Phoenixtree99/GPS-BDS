@@ -1,1 +1,1 @@
-# GPS-BDS by tonglejun.com
+# GPS-BDS Source code by tonglejun.com
